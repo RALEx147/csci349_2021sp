@@ -4,7 +4,7 @@
 #### This is a 300 level elective on data mining with Professor King.
 
 ## About me    
-#### I am Robb Alexander and I am a senior at Bucknell University graduating with a bachelor of science in Computer Science and a double major in philosophy.    
+#### I am Robb Alexander and I am a senior at Bucknell University graduating with a bachelor of science in Computer Science and a double major in philosophy. I was born in Shanghai China to an American Father and a Chinese Mother, eventually leaving and attending a boarding school for highschool and then college.      
 
 ## Skills 
 #### I am interested in blockchain and cryptocurrency, specifically smart contract technology (i.e. ethereum, eos, neo).    
