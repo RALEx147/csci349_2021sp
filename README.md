@@ -12,4 +12,5 @@
 #### I use python primarily for day to day programming, for fun or for practical scrapping/regex filtering. This is the language Ive most experience with due to the amount of time used for algorithm technical interview questions.
 
 ## Plans for graduation
-#### I am currently practicing algorithm questions in hopes of finding a job, if I don't get an offer before the end of February I will be relaxing until the next hiring cycle for software engineering roles in August/September. 
+####  <s>I am currently practicing algorithm questions in hopes of finding a job, if I don't get an offer before the end of February I will be relaxing until the next hiring cycle for software engineering roles in August/September. </s>
+#### Software development engineer in San Deigo at amazon
