@@ -10,3 +10,9 @@ https://raw.githubusercontent.com/t-davidson/hate-speech-and-offensive-language/
 ## Video demo
 
 https://youtu.be/
+
+
+## used dependencies
+pandas
+numpy
+sklearn
