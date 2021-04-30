@@ -16,3 +16,9 @@ https://youtu.be/
 pandas
 numpy
 sklearn
+nltk
+WordCloud
+
+## Resources
+https://towardsdatascience.com/what-to-do-when-your-classification-dataset-is-imbalanced-6af031b12a36
+https://medium.com/saarthi-ai/sentence-classification-using-convolutional-neural-networks-ddad72c7048c
