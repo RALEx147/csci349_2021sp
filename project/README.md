@@ -6,7 +6,10 @@ To analyze English speech online to classify hatespeech and vulgar language. Thi
 ## Data
 
 [Automated Hate Speech Detection and the Problem of Offensive Language
-](https://raw.githubusercontent.com/t-davidson/hate-speech-and-offensive-language/master/data/labeled_data.csv
+](https://github.com/t-davidson/hate-speech-and-offensive-language)
+
+
+[RAW DATA](https://raw.githubusercontent.com/t-davidson/hate-speech-and-offensive-language/master/data/labeled_data.csv
 )
 ## Video demo
 
