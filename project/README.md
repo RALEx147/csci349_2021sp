@@ -14,11 +14,32 @@ https://youtu.be/
 
 ## used dependencies
 pandas
+<br>
 numpy
+<br>
 sklearn
+<br>
 nltk
+<br>
+matplotlib
+<br>
 WordCloud
+<br>
+tensorflow
+<br>
+keras
+<br>
+sklearn
 
 ## Resources
-https://towardsdatascience.com/what-to-do-when-your-classification-dataset-is-imbalanced-6af031b12a36
-https://medium.com/saarthi-ai/sentence-classification-using-convolutional-neural-networks-ddad72c7048c
+[Imbalanced classification](https://towardsdatascience.com/what-to-do-when-your-classification-dataset-is-imbalanced-6af031b12a36 )
+<br>
+[CNN text classification](https://medium.com/saarthi-ai/sentence-classification-using-convolutional-neural-networks-ddad72c7048c )
+<br>
+[naive bayes text classification](https://towardsdatascience.com/implementing-a-naive-bayes-classifier-for-text-categorization-in-five-steps-f9192cdd54c3)
+<br>
+[naive bayes research paper on imbalanced text classes](https://people.csail.mit.edu/jrennie/papers/icml03-nb.pdf)
+<br>
+[text classification comparison (SGD)](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
+<br>
+[word embeddings](https://keras.io/examples/nlp/pretrained_word_embeddings/)
