@@ -5,8 +5,9 @@ To analyze English speech online to classify hatespeech and vulgar language. Thi
 
 ## Data
 
-https://raw.githubusercontent.com/t-davidson/hate-speech-and-offensive-language/master/data/labeled_data.csv
-
+[Automated Hate Speech Detection and the Problem of Offensive Language
+](https://raw.githubusercontent.com/t-davidson/hate-speech-and-offensive-language/master/data/labeled_data.csv
+)
 ## Video demo
 
 https://youtu.be/
@@ -30,6 +31,8 @@ tensorflow
 keras
 <br>
 sklearn
+<br>
+imblearn
 
 ## Resources
 [Imbalanced classification](https://towardsdatascience.com/what-to-do-when-your-classification-dataset-is-imbalanced-6af031b12a36 )
