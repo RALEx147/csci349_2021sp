@@ -36,6 +36,8 @@ keras
 sklearn
 <br>
 imblearn
+<br>
+mlxtend
 
 ## Resources
 [Imbalanced classification](https://towardsdatascience.com/what-to-do-when-your-classification-dataset-is-imbalanced-6af031b12a36 )
