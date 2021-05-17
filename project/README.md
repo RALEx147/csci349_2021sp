@@ -1,7 +1,12 @@
 # CSCI349 Data Mining Final project
 
-## Motive
-To analyze English speech online to classify hatespeech and vulgar language. This will go through models that can interact with language that has not been seen during classes or labs.
+## Overview
+This project is the final project for Brian King's CSCI349, Introduction to Data Mining,
+at Bucknell University. We are working on a classification project involving Hate Speech and Offensive Language.The internet is growing at an insane pace that humans cannot monitor everything posted, but site have an obligation to
+prevent the spreading of hate and bullying through text. If we could categorize this and punish accordingly, it would
+free up lots of time for humans to just be reviewers.We have a tweet, and it is assigned to a label of either hatespeech, offensive language, or neither. Our goal is to
+create a model that can learn from those human labeled tweets to extrapolate into a general formula to determine which class
+it falls under.
 
 ## Data
 
