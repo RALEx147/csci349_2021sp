@@ -16,6 +16,12 @@ To analyze English speech online to classify hatespeech and vulgar language. Thi
 https://youtu.be/
 
 
+## Model
+
+The model that we chose in the end was the Stochastic Gradient Descent.
+The Convoluted Neural Network didn't work as well as we expected, albeit the average macro-f1 score increased, but the hatespeech
+recognition was reduced. We thought the gloVe word embedding would at least increase the neither category accuracy, but it did help for some semantic examples such as 'I love my mom'. But in the end the CNN put too much focus on offensive language and detracted from the goal of categorizing hatespeech.
+
 ## used dependencies
 pandas
 <br>
